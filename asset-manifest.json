@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/audiovisual/static/css/main.5f361e03.chunk.css",
+    "main.js": "/audiovisual/static/js/main.bb42a1e4.chunk.js",
+    "main.js.map": "/audiovisual/static/js/main.bb42a1e4.chunk.js.map",
+    "runtime-main.js": "/audiovisual/static/js/runtime-main.3bc32635.js",
+    "runtime-main.js.map": "/audiovisual/static/js/runtime-main.3bc32635.js.map",
+    "static/js/2.93659701.chunk.js": "/audiovisual/static/js/2.93659701.chunk.js",
+    "static/js/2.93659701.chunk.js.map": "/audiovisual/static/js/2.93659701.chunk.js.map",
+    "index.html": "/audiovisual/index.html",
+    "precache-manifest.d1f5ec696eb965f332d067ba3314c2a8.js": "/audiovisual/precache-manifest.d1f5ec696eb965f332d067ba3314c2a8.js",
+    "service-worker.js": "/audiovisual/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/audiovisual/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.93659701.chunk.js.LICENSE.txt": "/audiovisual/static/js/2.93659701.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/audiovisual/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bc32635.js",
+    "static/js/2.93659701.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.bb42a1e4.chunk.js"
+  ]
+}
