@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c3b4b6867ab17b2415d87d77d57e130",
+    "revision": "ff3fbcca070b3137ac8263f6577263b6",
     "url": "/audiovisual/index.html"
   },
   {
-    "revision": "86d497eea743793f7913",
+    "revision": "af8c45cac723d9d123c7",
     "url": "/audiovisual/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/audiovisual/static/js/2.2ec7d63a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "86d497eea743793f7913",
-    "url": "/audiovisual/static/js/main.b8ad0fc2.chunk.js"
+    "revision": "af8c45cac723d9d123c7",
+    "url": "/audiovisual/static/js/main.3d5979d0.chunk.js"
   },
   {
     "revision": "068a8c9e89f4e7e9b7f6",

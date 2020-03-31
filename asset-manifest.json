@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/audiovisual/static/css/main.5f361e03.chunk.css",
-    "main.js": "/audiovisual/static/js/main.b8ad0fc2.chunk.js",
-    "main.js.map": "/audiovisual/static/js/main.b8ad0fc2.chunk.js.map",
+    "main.js": "/audiovisual/static/js/main.3d5979d0.chunk.js",
+    "main.js.map": "/audiovisual/static/js/main.3d5979d0.chunk.js.map",
     "runtime-main.js": "/audiovisual/static/js/runtime-main.3bc32635.js",
     "runtime-main.js.map": "/audiovisual/static/js/runtime-main.3bc32635.js.map",
     "static/js/2.2ec7d63a.chunk.js": "/audiovisual/static/js/2.2ec7d63a.chunk.js",
     "static/js/2.2ec7d63a.chunk.js.map": "/audiovisual/static/js/2.2ec7d63a.chunk.js.map",
     "index.html": "/audiovisual/index.html",
-    "precache-manifest.a1bad836244255463634174f105cb0d5.js": "/audiovisual/precache-manifest.a1bad836244255463634174f105cb0d5.js",
+    "precache-manifest.be1abf5ab79b33f9e35899b3523b72bb.js": "/audiovisual/precache-manifest.be1abf5ab79b33f9e35899b3523b72bb.js",
     "service-worker.js": "/audiovisual/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/audiovisual/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.2ec7d63a.chunk.js.LICENSE.txt": "/audiovisual/static/js/2.2ec7d63a.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.3bc32635.js",
     "static/js/2.2ec7d63a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b8ad0fc2.chunk.js"
+    "static/js/main.3d5979d0.chunk.js"
   ]
 }
